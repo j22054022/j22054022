@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @j22054022 graduated at NKUST Department Of Computer and Communication Engineering
-- 👀 I’m interested in frontend dev(or may be backend... maybe)
-- 🌱 I’m currently learning lots of frontend stufffff and some backend
+- 👀 I’m interested in ~~frontend dev~~ deep learning stuff maybe? hmm...
+- 🌱 I’m currently learning lots of ~~frontend stufffff and some backend~~ idk
 - 📫 How to reach me j22054022@gmail.com
 
 <!---
